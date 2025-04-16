@@ -62,7 +62,7 @@ This project showcases a comprehensive HR Analytics Dashboard built with Power B
 
 - White ethnicity is the most represented group.
 
-- Auditing has the highest turnover rate.
+- Auditing has the highest turnover rate (18%).
 
 - Most employees work at the headquarters (75%).
 
