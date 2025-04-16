@@ -72,13 +72,13 @@ This project showcases a comprehensive HR Analytics Dashboard built with Power B
 ---
 📂 **Files Included**
 
-- HR analytics sql- SQL files
+- `HR analytics sql`- SQL files
 
-- HR analytics Dashboard.pbix – Power BI file
+- `HR analytics Dashboard.pbix` – Power BI file
 
-- HR Analytics Documentation.pdf – SQL queries, metrics, dashboard views and insights
+- `HR Analytics Documentation.pdf` – SQL queries, metrics, dashboard views and insights
 
-- HR Analytics Dashboard PDF.pdf – Dashboard screenshots
+- `HR Analytics Dashboard PDF.pdf` – Dashboard screenshots
 
-- Human Resources.csv – Raw dataset
+- `Human Resources.csv` – Raw dataset
 
