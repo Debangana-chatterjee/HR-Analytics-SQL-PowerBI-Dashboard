@@ -3,6 +3,8 @@
 
 ---
 📊 **Project Objective**
+
+
 This project showcases a comprehensive HR Analytics Dashboard built with Power BI and powered by SQL-based data cleaning and transformation. The goal is to analyze employee demographics, turnover, tenure, and workplace diversity to provide actionable insights to HR teams.
 
 
